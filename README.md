@@ -1,5 +1,11 @@
 <h1 align="center">I'm Abdillah,</h1>
-<h3 align="center">I'm a full-stack developer (Golang, React, PostgreSQL) from France</h3>
+<p align="justify">I'm a full stack developer 💻 with 3 years of practical experience 🧠. My skills include: back-end development (Golang, PostgreSQL, Node.js), devops (Docker,Git,Gitlab) and front-end integrator (React, Typescript, Tailwindcss).</p>
+
+<p align="justify">I am comfortable in group work situations, but I am also comfortable in individual work. I am eager to learn, always trying to surpass 🚀 myself when I like something. I am an organised person, meticulously organised and better at dealing with people ✋ 🤚.</p>
+
+<p align="justify">My favorite ⭐️ languages are Golang, C, C++ and Typescript I also had the opportunity to work during my three years at Epitech on other languages like Haskell, ASM and C# but I'm always open to other programming languages in order to acquire new skills and diversify my knowledge 🎓.</p>
+
+<br />
 
 - 🌱 I’m currently learning **Flutter** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>
 
