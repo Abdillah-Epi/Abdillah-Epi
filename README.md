@@ -38,4 +38,17 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdillah-epi&show_icons=true&locale=en&layout=compact" alt="abdillah-epi" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdillah-epi&show_icons=true&locale=en&layout=compact" alt="abdillah-epi" />
+
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+
+
+## Latest project 🎉
+
+![preview](https://github.com/Abdillah-Epi/woxvmovie/blob/master/woxvmoie.gif)
