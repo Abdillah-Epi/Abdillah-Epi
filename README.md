@@ -26,5 +26,16 @@
   
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </div>
+<br/>
+<br/>
+
+<a href="https://github.com/Abdillah-Epi/woxvmovie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=woxv-movie-api&theme=codeSTACKr" />
+</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Abdillah-Epi/woxv-movie-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=woxvmovie&theme=codeSTACKr" />
+</a>
+<br/>
+<br/>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdillah-epi&show_icons=true&locale=en&layout=compact" alt="abdillah-epi" /></p>
