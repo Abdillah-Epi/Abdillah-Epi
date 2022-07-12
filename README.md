@@ -32,6 +32,16 @@
 <br/>
 <br/>
 <br/>
+<a href="https://github.com/Abdillah-Epi/woxvmovie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=woxvmovie&theme=codeSTACKr" />
+</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Abdillah-Epi/funEvalExpr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=funEvalExpr&theme=codeSTACKr" />
+</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Abdillah-Epi/HAL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=HAL&theme=codeSTACKr" />
+</a>
+<br/>
+<br/>
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdillah-epi&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="abdillah-epi" />
 <br/>
 <br/>
