@@ -7,7 +7,7 @@
 
 <br />
 
-- 🌱 I’m currently learning **Flutter** <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>
+- 🌱 I’m currently learning&nbsp;&nbsp;<img src="https://cdn.svgporn.com/logos/trpc.svg" alt="tRPC" width="50" />
 
 - 📫 How to reach me **abdillah-kael.madi@epitech.eu**
 
