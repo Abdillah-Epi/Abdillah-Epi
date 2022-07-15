@@ -32,7 +32,9 @@
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/Abdillah-Epi/woxvmovie">
+<a href="https://github.com/Abdillah-Epi/woxv-movie-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=woxv-movie-api&theme=codeSTACKr" />
+</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Abdillah-Epi/woxvmovie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=woxvmovie&theme=codeSTACKr" />
 </a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Abdillah-Epi/funEvalExpr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdillah-Epi&repo=funEvalExpr&theme=codeSTACKr" />
