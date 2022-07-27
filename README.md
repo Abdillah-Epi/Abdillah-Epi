@@ -1,4 +1,4 @@
-<h1 align="center">I'm Abdillah,</h1>
+<h1 align="center">Hello,</h1>
 <p align="justify">I'm a full stack developer 💻 with 3 years of practical experience 🧠. My skills include: back-end development (Golang, PostgreSQL, Node.js), devops (Docker,Git,Gitlab) and front-end integrator (React, Typescript, Tailwindcss).</p>
 
 <p align="justify">I am comfortable in group work situations, but I am also comfortable in individual work. I am eager to learn, always trying to surpass 🚀 myself when I like something. I am an organised person, meticulously organised and better at dealing with people ✋ 🤚.</p>
@@ -8,8 +8,6 @@
 <br />
 
 - 🌱 I’m currently learning&nbsp;&nbsp;<img src="https://cdn.svgporn.com/logos/trpc.svg" alt="tRPC" width="50" />
-
-- 📫 How to reach me **abdillah-kael.madi@epitech.eu**
 
 
 <h3 align="left">Languages and Tools:</h3>
